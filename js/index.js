@@ -12,7 +12,7 @@ $(window).load(function(){
 
 ;$(function() {
 	(function(){
-	 console.log('Hi! 朋友，感谢您愿意调试简历代码。\n如果您有什么建议或者想学习前端，欢迎您加入我们,我们互相学习，共同进步^_^。\nQQ小群(https://jq.qq.com/?_wv=1027&k=4EC0LCk)');
+	//  console.log('Hi!你好');
 	 setTimeout(function(){$('body').addClass('loaded');},400);
 	var Timer=null,
 		aa=1,
@@ -160,7 +160,7 @@ $(window).load(function(){
 		});
 	// 点击头连接
 	$('.W-introduce-me').on('click',function(){
-		window.open('https://show8.github.io'); 
+		window.open(''); 
 	});
 	
 	$('.W-time').hover(function(){
