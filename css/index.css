@@ -1338,22 +1338,22 @@ body {
 }
 
 .W-work1 {
-	background: url(../img/work1.jpg) no-repeat;
+	background: url(../img/work11.jpg) no-repeat;
 }
 
 .W-work2 {
-	background: url(../img/work2.jpg) no-repeat;
+	background: url(../img/work12.jpg) no-repeat;
 }
-
+/* 
 .W-work3 {
 	background: url(../img/work3.jpg) no-repeat;
 }
 
 .W-work4 {
 	background: url(../img/work4.jpg) no-repeat;
-}
+} */
 
-.W-work5 {
+/* .W-work5 { 
 	background: url(../img/work5.jpg) no-repeat;
 }
 
@@ -1375,15 +1375,15 @@ body {
 
 .W-work10 {
 	background: url(../img/work10.jpg) no-repeat;
-}
+} */
 
-.W-work11 {
+/* .W-work11 {
 	background: url(../img/work11.jpg) no-repeat;
 }
 
 .W-work12 {
 	background: url(../img/work12.jpg) no-repeat;
-}
+} */
 
 .W-work13 {
 	background: url(../img/work13.jpg) no-repeat;
