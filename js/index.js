@@ -369,16 +369,16 @@ $(window).load(function(){
 
 //禁止鼠标右键f12键
 
-	document.oncontextmenu=function(){ 
-	    return false; 
-	} 
-	$(document).keydown(function (e){
-		e = window.event || e || e.which;
-		if(e.keyCode==123){
-			location.href='https://showcc.github.io';
-			return false;
-		}
-	});
+	// document.oncontextmenu=function(){ 
+	//     return false; 
+	// } 
+	// $(document).keydown(function (e){
+	// 	e = window.event || e || e.which;
+	// 	if(e.keyCode==123){
+	// 		location.href='';
+	// 		return false;
+	// 	}
+	// });
 
 	// 评论
 	var ping=null;
